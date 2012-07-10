@@ -14,6 +14,7 @@ DSGraphicsKit provides support to quickly perform the following operations:
 - Animations:
   - Add a pop up animation to a layer.
 
+
 ## Installation
 
 Use [CocoaPods](https://github.com/CocoaPods/CocoaPods):
@@ -21,6 +22,8 @@ Use [CocoaPods](https://github.com/CocoaPods/CocoaPods):
     pod 'DSGraphicsKit'
 
 ## Usage
+
+![Preview](https://github.com/Discontinuity-srl/DSGraphicsKit/raw/master/README/Screenshots.png)
 
 #### Images
 
